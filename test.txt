@@ -1,7 +1,1 @@
-123
-new line conflict
-<<<<<<< HEAD
-123
-321 by thai
-=======
->>>>>>> bd2c77f (Update test.txt)
+thai9565
