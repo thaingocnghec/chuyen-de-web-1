@@ -1,2 +1,4 @@
 123
 new line conflict
+123
+321
